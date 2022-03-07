@@ -12,3 +12,6 @@ https://unsplash.com/
 
 ### Iconos  
 https://remixicon.com/
+
+### Fuentes   
+https://fonts.google.com/

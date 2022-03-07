@@ -15,3 +15,7 @@ https://remixicon.com/
 
 ### Fuentes   
 https://fonts.google.com/
+
+### Ilustraciones (SVG)  
+https://www.manypixels.co/gallery  
+https://undraw.co/illustrations
